@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Javier Emmanuel Anguiano Pita"
+  description: "Academic website | International economics and applied econometrics"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Materials
+        href: materials.qmd
+      - text: CV
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub (update with your profile)
+      - icon: envelope
+        href: mailto:je.ptt@hotmail.com
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Javier Emmanuel Anguiano Pita"
+    right: "Built with [Quarto](https://quarto.org/)"
+  search: true
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    code-copy: true
+
+execute:
+  freeze: auto

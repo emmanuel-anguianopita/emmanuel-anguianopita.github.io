@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+---
+
+My teaching and training materials emphasize reproducible empirical analysis and applied econometric methods.
+
+## Topics
+
+- Applied econometrics
+- Time-series analysis and vector autoregressions
+- International economics with empirical applications
+- Working with economic data in R
+
+## Course materials
+
+Course resources will be added to [Materials](materials.qmd). Materials can be linked as HTML presentations, Quarto source files, data, or reproducible R scripts.

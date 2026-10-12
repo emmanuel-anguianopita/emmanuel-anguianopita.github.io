@@ -1,0 +1,11 @@
+---
+title: "Temperature shocks and regional economic activity"
+---
+
+**Status:** Research in progress.
+
+This project studies heterogeneous responses of economic activity across Mexican states to temperature shocks, using quarterly indicators and geographically disaggregated weather information.
+
+**Empirical approach:** Panel local projections, with particular attention to shock construction and identifying assumptions.
+
+[Back to research](../research.qmd)

@@ -1,0 +1,16 @@
+---
+title: "Research"
+---
+
+My research focuses on international economic integration, financial transmission, applied econometrics, and environmental macroeconomics.
+
+## Ongoing research
+
+- [North American financial connectedness](projects/connectedness.qmd): time-varying connectedness across asset classes and investment horizons.
+- [Dynamic Granger causality under the USMCA](projects/granger-usmca.qmd): exchange-rate returns and interest-rate differentials.
+- [Temperature shocks and state-level activity](projects/temperature.qmd): heterogeneous local projection responses in Mexico.
+- [Monetary policy transmission](projects/monetary-policy.qmd): identifying monetary innovations with macroeconomic information.
+
+## Methods
+
+Time-varying parameter vector autoregressions, frequency-domain connectedness, dynamic Granger causality, autoregressive distributed lag models, and panel local projections.

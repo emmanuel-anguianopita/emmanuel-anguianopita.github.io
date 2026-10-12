@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$primary: #1b4f63;
+$body-color: #23303a;
+$link-color: #146b82;
+$navbar-bg: #ffffff;
+$navbar-fg: #273d4a;
+
+/*-- scss:rules --*/
+body { line-height: 1.75; }
+.navbar { border-bottom: 1px solid #e8edf1; }
+.navbar-brand { font-weight: 650; letter-spacing: -.02em; }
+h1, h2, h3 { letter-spacing: -.025em; }
+h1 { font-weight: 700; }
+h2 { margin-top: 2.4rem; }
+main.content { max-width: 920px; }
+.lead { font-size: 1.12rem; color: #536676; }
+.hero { padding: 2.5rem 0 1.7rem; border-bottom: 1px solid #e5eaed; margin-bottom: 2rem; }
+.hero h1 { font-size: clamp(2.1rem, 4.5vw, 3.2rem); margin: 0 0 .8rem; }
+.eyebrow { color: #276e82; text-transform: uppercase; font-size: .78rem; letter-spacing: .13em; font-weight: 700; }
+.project-card { border-left: 3px solid #1b7188; padding: .55rem 1.25rem; margin: 1.6rem 0; background: #f6f9fb; }
+.muted { color: #647684; }
+.quarto-title-block .quarto-title .title { margin-bottom: .4rem; }

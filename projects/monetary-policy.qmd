@@ -1,0 +1,11 @@
+---
+title: "Monetary policy transmission in Mexico"
+---
+
+**Status:** Research in progress.
+
+This project examines Mexican monetary policy innovations and their dynamic relationship with aggregate and sectoral macroeconomic indicators.
+
+**Empirical approach:** Factor-augmented vector autoregressions with quarterly macroeconomic data.
+
+[Back to research](../research.qmd)

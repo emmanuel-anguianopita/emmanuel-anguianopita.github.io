@@ -1,0 +1,13 @@
+---
+title: "Illustrative table"
+---
+
+| Variable | Definition | Frequency |
+|---|---|---|
+| GDP | Real output | Quarterly |
+| Interest rate | Short-term rate | Quarterly |
+| Inflation | Change in consumer price index | Quarterly |
+
+: Example metadata table (illustrative only). {#tbl-metadata}
+
+See @tbl-metadata for the metadata structure.

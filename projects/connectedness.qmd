@@ -1,0 +1,11 @@
+---
+title: "Financial connectedness in North America"
+---
+
+**Status:** Research in progress.
+
+This project evaluates changes in financial connectedness among North American equity, foreign exchange, and money markets. It distinguishes spillovers across investment horizons and examines their association with measures of financial and policy uncertainty.
+
+**Empirical approach:** Time-varying parameter vector autoregressions and frequency-domain connectedness.
+
+[Back to research](../research.qmd)

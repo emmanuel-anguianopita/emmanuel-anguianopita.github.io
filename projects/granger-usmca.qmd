@@ -1,0 +1,13 @@
+---
+title: "Dynamic Granger causality under the USMCA"
+---
+
+**Status:** Research in progress.
+
+This study examines episodic predictive relationships between exchange-rate returns and short-term interest-rate differentials among Canada, Mexico, and the United States.
+
+**Empirical approach:** Evolving-window Granger causality tests and lag-augmented vector autoregressions.
+
+Granger causality is interpreted as predictive content, not as a structural causal effect.
+
+[Back to research](../research.qmd)

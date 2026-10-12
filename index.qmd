@@ -1,0 +1,50 @@
+---
+title: false
+page-layout: article
+toc: false
+---
+
+::: {.hero}
+<p class="eyebrow">Economist · Researcher</p>
+
+# Javier Emmanuel Anguiano Pita
+
+<p class="lead">Postdoctoral Researcher · SECIHTI — Universidad de Guadalajara</p>
+
+I am an economist specializing in international economics and applied econometrics. My research examines North American economic and financial integration, exchange-rate and interest-rate dynamics, and the macroeconomic effects of environmental shocks.
+
+[Research](research.qmd) · [Publications](publications.qmd) · [Curriculum vitae](cv.qmd) · [ORCID](https://orcid.org/0000-0002-3902-534X)
+:::
+
+## Research interests
+
+- International economics and North American integration
+- Financial connectedness and international monetary transmission
+- Applied time-series and panel econometrics
+- Environmental economics and regional economic activity
+
+## Current affiliation
+
+Postdoctoral Researcher, Universidad de Guadalajara, Centro Universitario de Ciencias Económico Administrativas, Department of Quantitative Methods / Doctorate in Economic Studies. Supported by SECIHTI.
+
+## Selected projects
+
+::: {.project-card}
+**Financial connectedness in North America**  
+Time-varying and frequency-domain spillovers among foreign exchange and financial markets. [Read more](projects/connectedness.qmd).
+:::
+
+::: {.project-card}
+**Temperature shocks and economic activity in Mexico**  
+Heterogeneous state-level responses using panel local projections. [Read more](projects/temperature.qmd).
+:::
+
+::: {.project-card}
+**Monetary policy transmission in Mexico**  
+Factor-augmented vector autoregressions and macroeconomic indicators. [Read more](projects/monetary-policy.qmd).
+:::
+
+## Contact
+
+Email: [je.ptt@hotmail.com](mailto:je.ptt@hotmail.com)  
+ORCID: [0000-0002-3902-534X](https://orcid.org/0000-0002-3902-534X)

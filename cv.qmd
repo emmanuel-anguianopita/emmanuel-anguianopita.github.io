@@ -1,0 +1,33 @@
+---
+title: "Curriculum vitae"
+---
+
+## Current position
+
+**Postdoctoral Researcher**, SECIHTI — Universidad de Guadalajara, Mexico.
+
+## Education
+
+- **PhD in Economic Studies**, Universidad de Guadalajara, 2018–2022.
+- **MA in Economics**, Universidad de Guadalajara, 2015–2017.
+- **BA in Economics**, Universidad de Guadalajara, 2010–2014.
+
+## Research recognition
+
+- Candidate, Sistema Nacional de Investigadoras e Investigadores, 2024–2027.
+
+## Areas of expertise
+
+International economics, applied econometrics, financial integration, economic policy, regional and environmental economics.
+
+## Software
+
+R, Quarto, Python, Stata, MATLAB, EViews, LaTeX, and Git.
+
+## Download
+
+Place your current PDF curriculum vitae at `assets/cv/cv.pdf` and then activate this link:
+
+<!-- [Download my CV (PDF)](assets/cv/cv.pdf) -->
+
+*This is a summary profile, not a complete record of publications and professional appointments.*

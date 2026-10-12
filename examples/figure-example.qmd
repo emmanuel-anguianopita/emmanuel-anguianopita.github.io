@@ -1,0 +1,11 @@
+---
+title: "Illustrative figure"
+---
+
+A figure may be embedded using Quarto Markdown:
+
+```markdown
+![Figure caption](../assets/images/your-figure.png){#fig-example}
+```
+
+Add the image file before activating the snippet above. Figures generated in R or Python can also use Quarto figure labels and cross-references.

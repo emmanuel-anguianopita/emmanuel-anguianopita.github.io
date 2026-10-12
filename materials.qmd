@@ -1,0 +1,16 @@
+---
+title: "Materials"
+---
+
+Teaching resources, code examples, and reproducible economic research materials.
+
+## Reproducibility
+
+Files can be organized within `assets/materials/` and linked here. For each dataset or code file, document its source, date, variables, and reproduction instructions.
+
+## Examples
+
+- [Illustrative summary table](examples/table-example.qmd)
+- [Illustrative chart](examples/figure-example.qmd)
+
+*The examples contain simulated data and do not represent empirical findings.*

@@ -1,0 +1,23 @@
+---
+title: "Publications"
+---
+
+This section is ready for your **verified bibliography**. Entries are intentionally not invented or presented as published before formal acceptance.
+
+## Peer-reviewed articles
+
+_Add published articles here with complete citation, digital object identifier, and link._
+
+## Book chapters
+
+_Add confirmed book chapters here._
+
+## Working papers
+
+- Financial connectedness and economic uncertainty in North America — working paper.
+- Dynamic Granger causality between exchange-rate returns and interest-rate differentials — work in progress.
+- Temperature shocks and regional economic activity in Mexico — work in progress.
+
+<!-- Example:
+Anguiano Pita, J. E., and A. Ruiz Porras (YEAR). "TITLE." Journal, volume(issue), pages. DOI.
+-->
