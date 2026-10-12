@@ -1,11 +1,11 @@
 ---
-title: false
+title: ""
 page-layout: article
 toc: false
 ---
 
 ::: {.hero}
-<p class="eyebrow">Economist · Researcher</p>
+<p class="eyebrow">Academic Economist</p>
 
 # Javier Emmanuel Anguiano Pita
 
